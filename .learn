@@ -1,7 +1,7 @@
 def my_method(array)
   array.each do I movie
      puts "One of my favorite movies is 
-     #{movie}"
+     #{movie}"Me
 
   end
 end
