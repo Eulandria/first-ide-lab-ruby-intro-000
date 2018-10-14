@@ -4,7 +4,7 @@ def my_method(array)
   puts "My most favorit movie is m#{movie}"
   else
      puts "One of my favorite movies is 
-     #{movie}"Me
+     #{movie}
 
   end
 end
